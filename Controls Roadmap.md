@@ -1,6 +1,6 @@
 # Controls
 
-## FORMULAS & CONCEPTS
+## Formulas & Concepts
 
 Kalman Filter
 
